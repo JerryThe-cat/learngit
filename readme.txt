@@ -1,1 +1,3 @@
-My First Git Project
+My First Git Project;
+Git is a distributed version control system.
+git is free software.
